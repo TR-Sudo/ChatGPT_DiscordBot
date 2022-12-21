@@ -1,6 +1,6 @@
-# PromptBot
+# ChatGPTBot
 
-Meet PromptBot, a Discord bot that brings the power of ChatGPT to your chats! Whether you're looking for witty banter or helpful information, PromptBot has got you covered.
+Meet ChatGPTBot, a Discord bot that brings the power of ChatGPT to your chats! Whether you're looking for witty banter or helpful information, PromptBot has got you covered.
 
 # PromptBot is always alive invite and prompt away!
 https://discord.com/oauth2/authorize?client_id=1054945090705051768&permissions=75776&scope=bot
@@ -15,7 +15,7 @@ https://discord.com/oauth2/authorize?client_id=1054945090705051768&permissions=7
 # To Use
 !help returns 
 ```
-To use this PromptBot, simply type
+To use this ChatGPTBot, simply type
 '!prompt' (followed by the request)
 
 For example
