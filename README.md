@@ -37,7 +37,7 @@ You can use an online time zone converter tool or a smartphone app to easily con
 # API
 ChatGPT API
 
-#Prompt Bot is always alive click link to invite and fire away!
+# Prompt Bot is always alive click link to invite and fire away!
 https://discord.com/oauth2/authorize?client_id=1054945090705051768&permissions=75776&scope=bot
 
 
