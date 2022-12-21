@@ -1,5 +1,4 @@
 import discord
-from discord.ext import commands
 import os
 from api_req import res
 from dotenv import load_dotenv,find_dotenv
