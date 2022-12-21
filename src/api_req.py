@@ -11,7 +11,7 @@ def res(userPrompt):
     res=openai.Completion.create(
         model='text-davinci-003',
         prompt=userPrompt,
-        max_tokens=2000,
+        max_tokens=2000,#word limit for discord
         temperature=0.6
     )
     
