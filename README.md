@@ -4,7 +4,7 @@ Meet ChatGPTBot, a Discord bot that brings the power of ChatGPT to your chats! W
 
 Initially PromptBot
 
-# PromptBot is always alive invite and prompt away!
+# ChatGPTBot is always alive invite and prompt away!
 https://discord.com/oauth2/authorize?client_id=1054945090705051768&permissions=75776&scope=bot
 
 
