@@ -2,6 +2,10 @@
 
 Meet PromptBot, a Discord bot that brings the power of ChatGPT to your chats! Whether you're looking for witty banter or helpful information, PromptBot has got you covered.
 
+# PromptBot is always alive click link to invite and fire away!
+https://discord.com/oauth2/authorize?client_id=1054945090705051768&permissions=75776&scope=bot
+
+
 # Supports
 ```
 !prompt (followed by request)
@@ -36,9 +40,5 @@ You can use an online time zone converter tool or a smartphone app to easily con
 
 # API
 ChatGPT API
-
-# PromptBot is always alive click link to invite and fire away!
-https://discord.com/oauth2/authorize?client_id=1054945090705051768&permissions=75776&scope=bot
-
 
 
