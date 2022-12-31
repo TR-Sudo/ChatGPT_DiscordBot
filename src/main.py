@@ -10,7 +10,7 @@ client = discord.Client(intents=intents)
 
 @client.event
 async def on_ready():
-    print(f'MyTime Bot active and running as {client.user}')
+    print(f'ChatGPTBot active and running as {client.user}')
 
 @client.event
 async def on_message(message):
