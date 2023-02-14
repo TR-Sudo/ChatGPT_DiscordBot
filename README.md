@@ -35,8 +35,8 @@ To convert a time from EST to PST, you can simply subtract 3 hours from the time
 You can use an online time zone converter tool or a smartphone app to easily convert between different time zones.
 ```
 # Pictures
-![Screenshot 2022-12-21 005648](https://user-images.githubusercontent.com/78048789/208833019-575a5a42-a370-4547-aeb1-006b3663733c.png)
-![Screenshot 2022-12-21 005848](https://user-images.githubusercontent.com/78048789/208833068-b1b67b34-f6e4-4081-93c1-c8be6710e897.png)
+![Screenshot 2023-02-13 204313](https://user-images.githubusercontent.com/78048789/218616782-6b0e5842-f54b-46bd-a816-256fc7f964dc.png)
+![Screenshot 2023-02-13 204529](https://user-images.githubusercontent.com/78048789/218617090-ed718fec-c723-4b0f-82aa-71e356e2ce5d.png)
 
 # API
 ChatGPT API
