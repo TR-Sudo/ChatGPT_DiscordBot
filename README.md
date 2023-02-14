@@ -36,7 +36,7 @@ You can use an online time zone converter tool or a smartphone app to easily con
 ```
 # Pictures
 ![Screenshot 2023-02-13 204313](https://user-images.githubusercontent.com/78048789/218616782-6b0e5842-f54b-46bd-a816-256fc7f964dc.png)
-<br></br>
+-------
 ![Screenshot 2023-02-13 204529](https://user-images.githubusercontent.com/78048789/218617090-ed718fec-c723-4b0f-82aa-71e356e2ce5d.png)
 
 # API
